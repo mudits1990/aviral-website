@@ -1,31 +1,19 @@
-title: Free Responsive HTML5/CSS3 Template
+title: Student, Innovator, Scientist
 author:
-  name: Peter Finla
+  name: Aviral Somani
 metadata:
-    description: 'An exclusive HTML5/CSS3 freebie by Peter Finlan, for Codrops.'
+    description: 'Aviral Somani'
 
 # Header customization
 header:
-  title: I'm Jonathan Doe.
-  description: I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.
-copyright:
-    - line: &copy; Copyright 2014 CeeVee
-    - line: Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>
+  title: I'm Aviral Somani.
+  description: I am a Senior in high school in the Dallas/Fort Worth Area. I have a keen interest in <span>learning about the world</span>, <span>engineering</span>, and <span>innovating</span>, through <span>research</span>, <span>invention</span>, <span>programming</span>, and <span>problem-solving</span>. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.
+
 social:
-- url: "#"
-  icon: facebook
-- url: "#"
-  icon: twitter
-- url: "#"
-  icon: google-plus
-- url: "#"
+- url: "http://linkedin.com/in/aviral-somani-b62885123"
   icon: linkedin
-- url: "#"
+- url: "http://instagram.com/av.ral"
   icon: instagram
-- url: "#"
-  icon: dribbble
-- url: "#"
-  icon: skype
 
 
 # HOW TO CREATE A VALID ID TO USE:
@@ -38,12 +26,3 @@ social:
 # Look at the URL in your web browser, you will see a long number like this:
 # 657554810648948736
 # Use this as your ID below instead!
-
-twitter:
-  id: '657554810648948736' # Your widget ID
-  domId: 'tw-widget1' # HTML ID used in code
-  maxTweets: 3 # How many tweets to display
-  enableLinks: 'true' # Enable links
-  showInteraction: 'false' # Show interaction
-  showImages: 'false'  # Show images
-  showUser: 'false' # Show user name

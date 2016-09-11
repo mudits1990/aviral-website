@@ -32,9 +32,11 @@
         {% for module in page.collection() %}
             {% if not module.header.hidemenu %}
                 {% set current_page = (module.active or module.activeChild) ? 'current' : '' %}
+                {% if module.menu | lower != 'portfolio' and module.menu | lower != 'testimonials' %}
                 <li class="{{ current_module }}">
                     <a class="smoothscroll" href="#{{ _self.pageLinkName(module.menu) }}">{{ module.menu }}</a>
                 </li>
+                {% endif %}
             {% endif %}
         {% endfor %}
     </ul>

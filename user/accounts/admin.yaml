@@ -1,0 +1,9 @@
+email: avisomani@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+fullname: 'Aviral Somani'
+title: Admin
+state: enabled
+hashed_password: $2y$10$Np8fD8q8stSTyrQa/Es.gOvFWFobdS6qGVa03zhKVJ.sdPjgBJrlO

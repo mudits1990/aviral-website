@@ -1,8 +1,8 @@
-title: Free Responsive HTML5/CSS3 Template
+title: Student, Innovator, Scientist
 author:
-  name: Peter Finla
+  name: Aviral Somani
 metadata:
-    description: 'An exclusive HTML5/CSS3 freebie by Peter Finlan, for Codrops.'
+    description: 'Aviral Somani'
 
 # Header customization
 header:
@@ -12,7 +12,7 @@ header:
 social:
 - url: "http://linkedin.com/in/aviral-somani-b62885123"
   icon: linkedin
-- url: "@av.ral"
+- url: "http://instagram.com/av.ral"
   icon: instagram
 
 

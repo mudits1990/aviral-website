@@ -9,7 +9,7 @@ address:
 email:
     - address: avisomani@gmail.com
 buttons:
-    - url: "#"
+    - url: "user/themes/ceevee/assets/AviralSomaniResume.pdf"
       icon: download
       text: Download Resume
 ---

@@ -22,8 +22,7 @@ sections:
         - title: Founder, Director, Head of Technical Applications 
           info: Caelus Solutions Corp.
           date: September 2015 - Present
-          description: Caelus Solutions Corp. is a startup focused on urban engineering to reduce the amount of residential fire-related casualties by innovative technical applications. My work at this organization involved initially founding it and leading the software development of our prototype system. 
-                       Caelus solutions is also leading projects in social media through application design using geolocation services in order to simplify the planning of social interaction.
+          description: Caelus Solutions Corp. is a startup focused on urban engineering to reduce the amount of residential fire-related casualties by innovative technical applications. My work at this organization involved initially founding it and leading the software development of our prototype system. Caelus solutions is also leading projects in social media through application design using geolocation services in order to simplify the planning of social interaction.
         - title: Founder and Vice President
           info: Dallas/Fort Worth Chapter Red Cross Club
           date: July 2015 - Present

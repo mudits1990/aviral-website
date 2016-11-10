@@ -1,5 +1,5 @@
 ---
 title: Not Found
-routable: false
+routable: true
 notfound: true
 ---
